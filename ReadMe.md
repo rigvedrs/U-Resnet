@@ -1,4 +1,4 @@
-# 3D ResNet combined with encoder using PyTorch :chart_with_upwards_trend:
+# 3D ResNet combined with encoder using PyTorch :bar_chart:
 
 ### A 3D ResNet combined with an encoder to create a U-net having shapes of expansive and contrctive layers derived from ResNet
 
