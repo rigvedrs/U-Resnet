@@ -1,6 +1,6 @@
 # 3D ResNet combined with encoder using PyTorch :bar_chart:
 
-### A 3D ResNet combined with an encoder to create a U-net having shapes of expansive and contrctive layers derived from ResNet
+### A 3D U-ResNet that combines the concept of encoder and decoder layers of U-Net and the skip connections of ResNet
 
 - The function can generate all ResNet shapes [Resnet10, Resnet18, Resnet34, Resnet50, Resnet101, Resnet152, Resnet200]
 
